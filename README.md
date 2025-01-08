@@ -2,7 +2,7 @@
 
 ## Overview
 
-As we don't have a renamer efficient on Framer, I felt the real necessity to build it! Feel free to contribute and let it more beautiful
+As we don't have a Select & Rename efficient on Framer, I felt the real necessity to build it! Feel free to contribute and let it more beautiful
 
 ## Quickstart
 
