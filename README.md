@@ -1,6 +1,8 @@
 # Select & Rename
 
-This is a template for using the Framer Plugin API in a TypeScript project.
+## Overview
+
+As we don't have a renamer efficient on Framer, I felt the real necessity to build it! Feel free to contribute and let it more beautiful
 
 ## Quickstart
 
